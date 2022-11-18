@@ -1,0 +1,14 @@
+SCORING END POINT
+
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/03c06c5c-46a5-4cce-88b9-45cf0c3e429f/predictions?version=2022-11-18
+
+
+
+API KEY
+
+{
+	"name": "key",
+	"description": "",
+	"createdAt": "2022-11-18T14:05+0000",
+	"apikey": "197gdiS1c6friJ05hJ3JnMrxgJy-nKAiFSRqBfhzAugR"
+}
